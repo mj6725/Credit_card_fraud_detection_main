@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+### live link : https://creditcardfrauddetection-mj.streamlit.app/
+
 This project implements a machine learning solution to identify and prevent fraudulent credit card transactions. The system uses a Random Forest Classifier trained on transaction data to monitor and flag suspicious activities in real-time.
 
 ### Key Features
